@@ -98,6 +98,7 @@
 .rw-link {
   color: #4299e1;
   text-decoration: underline;
+  margin-right: 20px;
 }
 .rw-link:hover {
   color: #2b6cb0;
